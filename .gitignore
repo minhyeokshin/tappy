@@ -59,4 +59,4 @@ yarn-error.log*
 /*.jar
 
 
-resources/application-secret.yml
+/src/main/resources/application-secret.yml
