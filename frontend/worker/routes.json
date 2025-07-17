@@ -1,0 +1,6 @@
+{
+  "/api/attendance": "/attendance",
+  "/api/user": "/user",
+  "/api/worktime": "/worktime",
+  "/api/salary": "/salary"
+} 
