@@ -1,0 +1,44 @@
+{
+  "attendance": [
+    { "id": 1, "type": "출근", "time": "08:55", "store": "TAPPY 강남점" },
+    { "id": 2, "type": "퇴근", "time": "18:01", "store": "TAPPY 강남점" },
+    { "id": 3, "type": "출근", "time": "09:10", "store": "TAPPY 신촌점" },
+    { "id": 4, "type": "퇴근", "time": "17:55", "store": "TAPPY 신촌점" },
+    { "id": 5, "type": "출근", "time": "10:00", "store": "TAPPY 홍대점" },
+    { "id": 6, "type": "퇴근", "time": "19:00", "store": "TAPPY 홍대점" },
+    { "id": 7, "type": "출근", "time": "08:45", "store": "TAPPY 강남점" },
+    { "id": 8, "type": "퇴근", "time": "17:50", "store": "TAPPY 강남점" }
+  ],
+  "user": {
+    "id": 1,
+    "name": "홍길동",
+    "phone": "010-1234-5678",
+    "email": "hong@tappy.com",
+    "profileImg": "",
+    "joinedAt": "2023-12-01"
+  },
+  "worktime": [
+    { "id": 1, "date": "2024-06-01", "hours": 8 },
+    { "id": 2, "date": "2024-06-02", "hours": 7 },
+    { "id": 3, "date": "2024-06-03", "hours": 8 },
+    { "id": 4, "date": "2024-06-04", "hours": 6 },
+    { "id": 5, "date": "2024-06-05", "hours": 8 },
+    { "id": 6, "date": "2024-06-06", "hours": 0 },
+    { "id": 7, "date": "2024-06-07", "hours": 7 },
+    { "id": 8, "date": "2024-06-08", "hours": 8 },
+    { "id": 9, "date": "2024-06-09", "hours": 6 },
+    { "id": 10, "date": "2024-06-10", "hours": 8 },
+    { "id": 11, "date": "2024-05-30", "hours": 7 },
+    { "id": 12, "date": "2024-05-29", "hours": 8 }
+  ],
+  "salary": {
+    "id": 1,
+    "hourly": 10500,
+    "totalHours": 142,
+    "expected": 1491000,
+    "month": "2024-06",
+    "bonus": 50000,
+    "overtime": 12000,
+    "night": 30000
+  }
+} 
